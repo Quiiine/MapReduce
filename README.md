@@ -2,7 +2,7 @@
 Simple python code with using spark to count words in a file from HDFS
 
 # Usage
--it counts the words the the which are given in the file
+-it counts the words which are given in the file
 
 # Result
 <p align="center">
